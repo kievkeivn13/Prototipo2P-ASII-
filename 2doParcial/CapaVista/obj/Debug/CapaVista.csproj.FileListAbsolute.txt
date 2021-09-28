@@ -1,0 +1,37 @@
+C:\Users\kievk\source\repos\2doParcial\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\source\repos\2doParcial\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\source\repos\2doParcial\CapaVista\bin\Debug\CapaContolador.dll
+C:\Users\kievk\source\repos\2doParcial\CapaVista\bin\Debug\CapaContolador.pdb
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.Cliente.resources
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.EjemploMantenimiento.resources
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.EjemploMantenimientoCombo.resources
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.Inventario.resources
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.Factura.resources
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\source\repos\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\source\repos\2doParcial\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\source\repos\2doParcial\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\bin\Debug\CapaContolador.dll
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\bin\Debug\CapaContolador.pdb
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.EjemploMantenimiento.resources
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.EjemploMantenimientoCombo.resources
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.Inventario.resources
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.Factura.resources
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.Alumnos.resources
+C:\Users\kievk\Desktop\SP\Contenido segundo Parcial Analisis\2doParcial\CapaVista\obj\Debug\CapaVista.Maestros.resources
